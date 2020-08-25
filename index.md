@@ -9,3 +9,4 @@
 ## [Trabalho 1: Contexto histórico, materiais e elementos estruturais](https://wmpjrufg.github.io/CIV254-ALVESTRUTURAL/trabalho1.html)
 
 Neste trabalho deverá ser feito um resumo sobre o histórico dos materiais, elementos estruturais e a concepção do sistema.
+
