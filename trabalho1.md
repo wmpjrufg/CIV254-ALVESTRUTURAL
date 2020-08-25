@@ -4,9 +4,12 @@
 
 <p style='text-align: justify;'>Grandes construções como as pirâmides do Egito Antigo, Taj Mahal e Muralha da China foram erguidas com a utilização de técnicas de construção em alvenaria autoportante [1]. A sociedade Americana do Construtores de Alvenaria [2] afirma que os blocos de barro cozidos ao sol já eram utilizados como material estrutural a cerca 6000 de anos atrás.</p>  
 
-<p style='text-align: justify;'>Em um primeiro momento as formas estruturais eram compostas por junções simples de colunas e vigas e essa concepção evoluiu para as pirâmides e elementos de arco. Casos emblemáticos podem ser citados como as pirâmides do Complexo de Gizé (Egito), Pirâmide de Chichén Itzá (México) e o Palácio de Ctesifonte (Iraque). A Figura 1 apresenta construções tradicionais com o uso de rochas e dos tijolos de adobe.</p>  
+<p style='text-align: justify;'>Em um primeiro momento as formas estruturais eram compostas por junções simples de colunas e vigas e essa concepção evoluiu para as pirâmides e elementos de arco. Casos emblemáticos podem ser citados como as pirâmides do Complexo de Gizé (Egito), Pirâmide de Chichén Itzá (México) e o Palácio de Ctesifonte (Iraque). A Figura \ref{#rot} apresenta construções tradicionais com o uso de rochas e dos tijolos de adobe.</p>  
 
-![testes.](assets/imgs/gize.png)
+
+![Figura 1](assets/imgs/gize.png){#rot}
+Fonte: wanderlei
+
 
 <p style='text-align: justify;'>Então a evolução natural do processo construtivo em alvenaria autoportante se deu com o uso da pedra, dos tijolos de adobe, blocos sílico-calcários até os blocos de concreto de alto desempenho que se conhece atualmente.</p>
 <br>
@@ -23,9 +26,3 @@ Caracter | Permissão
 x <- rnorm(n = 10, mean = 100, sd = 5)
 hist(x, main = "")
 ```
-: titulo  
-+--------------------+---------+--------------+  
-|Fruta               |teste    |descrição     |  
-+====================+=========+==============+  
-|teste               |teste    |tste          | 
-+--------------------+---------+--------------+  
