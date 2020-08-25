@@ -11,3 +11,10 @@
 <p style='text-align: justify;'>Então a evolução natural do processo construtivo em alvenaria autoportante se deu com o uso da pedra, dos tijolos de adobe, blocos sílico-calcários até os blocos de concreto de alto desempenho que se conhece atualmente.</p>
 <br>
 <p style='text-align: justify;'>A Figura 2 apresenta alguns modelos de paredes autoportantes formadas pela junção de blocos com ou sem argamassa que eram usadas na antiguidade. Parsekian et al. [3] afirma que as sociedades antigas utilizavam nessas construções a areia como elemento abrasivo para lixar e tornar planas as faces a serem assentadas.</p>
+
+    Caracter | Permissão
+    ---------|----------
+    `r`      | Permissão de leitura (*read*)
+    `w`      | Permissão de escrita (*write*)
+    `x`      | Permissão de execução (*execute*)
+    `-`      | Permissão desabilitada
