@@ -6,7 +6,14 @@
 - Aluno da disciplina: Wanderlei Malaquias Pereira Junior.
 
 
-## Welcome to GitHub Pages
+## Trabalho 1: Contexto histórico, materiais e elementos estruturais
+
+### HISTÓRICO E CONCEPÇÃO ESTRUTURAL DE SISTEMAS DE PAREDE AUTOPORTANTE
+
+<p style='text-align: justify;'>A história das estruturas civis é tão antiga quanto a história da humanidade. Sobre essa ótica deve-se lançar um olhar aos tempos mais remotos das civilizações podendo assim verificar o uso de estruturas de pedra e barro solidificado para criação de templos e moradias.</p>
+<p style='text-align: justify;'>Grandes construções como as pirâmides do Egito Antigo, Taj Mahal e Muralha da China foram erguidas com a utilização de técnicas de construção em alvenaria autoportante [1]. A sociedade Americana do Construtores de Alvenaria [2] afirma que os blocos de barro cozidos ao sol já eram utilizados como material estrutural a cerca 6000 de anos atrás.</p>
+<p style='text-align: justify;'>Em um primeiro momento as formas estruturais eram compostas por junções simples de colunas e vigas e essa concepção evoluiu para as pirâmides e elementos de arco. Casos emblemáticos podem ser citados como as pirâmides do Complexo de Gizé (Egito), Pirâmide de Chichén Itzá (México) e o Palácio de Ctesifonte (Iraque). A Figura 1 apresenta construções tradicionais com o uso de rochas e dos tijolos de adobe.</p>
+
 
 You can use the [editor on GitHub](https://github.com/wmpjrufg/CIV254-ALVESTRUTURAL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
