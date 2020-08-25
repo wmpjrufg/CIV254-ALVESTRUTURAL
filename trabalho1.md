@@ -12,12 +12,12 @@
 <br>
 <p style='text-align: justify;'>A Figura 2 apresenta alguns modelos de paredes autoportantes formadas pela junção de blocos com ou sem argamassa que eram usadas na antiguidade. Parsekian et al. [3] afirma que as sociedades antigas utilizavam nessas construções a areia como elemento abrasivo para lixar e tornar planas as faces a serem assentadas.</p>
 
-    Caracter | Permissão
-    ---------|----------
-    `r`      | Permissão de leitura (*read*)
-    `w`      | Permissão de escrita (*write*)
-    `x`      | Permissão de execução (*execute*)
-    `-`      | Permissão desabilitada
+Caracter | Permissão
+---------|----------
+`r`      | Permissão de leitura (*read*)
+`w`      | Permissão de escrita (*write*)
+`x`      | Permissão de execução (*execute*)
+`-`      | Permissão desabilitada
     
 ```
 x <- rnorm(n = 10, mean = 100, sd = 5)
