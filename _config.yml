@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+defaults:
+  - scope:
+      path: "assets/imgs"
+    values:
+      image: true
