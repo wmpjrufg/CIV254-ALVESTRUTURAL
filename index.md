@@ -6,7 +6,7 @@
 - Aluno da disciplina: Wanderlei Malaquias Pereira Junior.
 
 
-## [Trabalho 1: Contexto histórico, materiais e elementos estruturais](https://wmpjrufg.github.io/CIV254-ALVESTRUTURAL/trabalho1.html)
+## [Trabalho 1: Contexto histórico, materiais e elementos estruturais](https://wmpjrufg.github.io/CIV254-UFSCar/trabalho1.html)
 
-Neste trabalho deverá ser feito um resumo sobre o histórico dos materiais, elementos estruturais e a concepção do sistema.
+<p style='text-align: justify;'>Neste trabalho deverá foi feito um resumo sobre o histórico dos materiais, elementos estruturais e a concepção do sistema alvenaria autoportante.</p>
 
