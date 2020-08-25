@@ -7,8 +7,8 @@
 <p style='text-align: justify;'>Em um primeiro momento as formas estruturais eram compostas por junções simples de colunas e vigas e essa concepção evoluiu para as pirâmides e elementos de arco. Casos emblemáticos podem ser citados como as pirâmides do Complexo de Gizé (Egito), Pirâmide de Chichén Itzá (México) e o Palácio de Ctesifonte (Iraque). A Figura \ref{#rot} apresenta construções tradicionais com o uso de rochas e dos tijolos de adobe.</p>  
 
 
-![Figura 1](assets/imgs/gize.png){#rot}
-Fonte: wanderlei
+<img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200"> <img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200"> <img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200">
+
 
 
 <p style='text-align: justify;'>Então a evolução natural do processo construtivo em alvenaria autoportante se deu com o uso da pedra, dos tijolos de adobe, blocos sílico-calcários até os blocos de concreto de alto desempenho que se conhece atualmente.</p>
@@ -21,6 +21,16 @@ Caracter | Permissão
 `w`      | Permissão de escrita (*write*)
 `x`      | Permissão de execução (*execute*)
 `-`      | Permissão desabilitada
+
+Quadro perfil: Perfil dos voluntários do experimento
+
+|Vol.|Formação acadêmica           |Experiência c/ Latex| Expeiência c/ Markdown|
+|:-:|:----------------------------:|:------------------:|:---------------------:|
+|1  |Ciência da Computação         |ShareLatex          |    Readme/Github      |
+|2  |Engenharia da Computação      |Viu prof. utilizando|         -             |
+|3  |Engenheiro elétrico (mestrando)|Utiliza para tudo  |         -             |
+
+Fonte: Autor.
     
 ```
 x <- rnorm(n = 10, mean = 100, sd = 5)
