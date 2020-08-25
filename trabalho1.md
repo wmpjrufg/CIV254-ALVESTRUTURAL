@@ -18,3 +18,8 @@
     `w`      | Permissão de escrita (*write*)
     `x`      | Permissão de execução (*execute*)
     `-`      | Permissão desabilitada
+    
+```
+x <- rnorm(n = 10, mean = 100, sd = 5)
+hist(x, main = "")
+```
