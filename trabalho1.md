@@ -7,7 +7,7 @@
 <p style='text-align: justify;'>Em um primeiro momento as formas estruturais eram compostas por junções simples de colunas e vigas e essa concepção evoluiu para as pirâmides e elementos de arco. Casos emblemáticos podem ser citados como as pirâmides do Complexo de Gizé (Egito), Pirâmide de Chichén Itzá (México) e o Palácio de Ctesifonte (Iraque). A Figura \ref{#rot} apresenta construções tradicionais com o uso de rochas e dos tijolos de adobe.</p>  
 
 
-<img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200"> <img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200"> <img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200">
+<img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200"> <img src="assets/imgs/itza.png" alt="Trulli" width="auto" height="200"> <img src="assets/imgs/Ctesifonte.png" alt="Trulli" width="auto" height="200">
 
 
 
