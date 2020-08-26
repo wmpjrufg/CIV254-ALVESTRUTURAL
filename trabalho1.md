@@ -104,9 +104,9 @@ $Y = \beta_0 + \beta_1 x + \epsilon$.
 Figura 6 – Consistência relativa dos produtos cimentícios [10].
 
 <p style='text-align: justify;'>Além disso o graute é lançado nos furos verticais dos blocos ou canaletas e peças similares J e compensadores [3]. Exercendo a função de:</p> 
-1. Aumentar a resistência em pontos localizados;   
-2. Aumentar a resistência de compressão de uma parede;   
-3. Unir eventuais armaduras ao sistema de parede autoportante.  
+1. Aumentar a resistência em pontos localizados;     
+2. Aumentar a resistência de compressão de uma parede;     
+3. Unir eventuais armaduras ao sistema de parede autoportante.    
 
 # REFERÊNCIAS
 ```
