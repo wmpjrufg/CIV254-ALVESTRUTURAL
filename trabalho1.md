@@ -42,6 +42,14 @@ Figura 3 - Dimensões de um bloco [6].
 <img src="assets/imgs/modulacao.png" alt="Trulli" width="auto" height="300" title="Dimensões reais e dimensões nominais">  
 Figura 4 – Dimensões reais e dimensões nominais [6].
 
+# MATERIAIS
+
+<p style='text-align: justify;'>Para execução de alvenaria estrutural, a composição e materiais empregados deve estar dento do padrão estabelecidos em norma, assegurado a estabilidade e segurança estrutural da edificação [7] de forma a cumprir os requisitos estabelecidos por norma.</p>
+
+<p style='text-align: justify;'>Os blocos cerâmicos estruturais por definição segundo deve possuir furos prismáticos perpendiculares à face que os contêm, sendo os mesmos produzidos para serem assentados com furo na vertical [8]. Os blocos cerâmicos são classificados em: bloco cerâmico estrutural de paredes vazadas (a); bloco cerâmico estrutural com paredes maciças (b); bloco cerâmico estrutural com paredes maciças (paredes internas vazadas) (c) e bloco cerâmico estrutural perfurado (d), como mostra a Figura 1.</p>
+
+
+
 Caracter | Permissão
 ---------|----------
 `r`      | Permissão de leitura (*read*)
