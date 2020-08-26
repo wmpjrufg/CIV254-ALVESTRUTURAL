@@ -77,25 +77,34 @@ $Y = \beta_0 + \beta_1 x + \epsilon$.
 
 <p style='text-align: justify;'>Os ensaios de controle das dimensões do bloco são relativamente simples, basicamente deve-se medir cada uma das dimensões e anotar valores mínimos, médios e máxima diferença em relação ao mínimo e à média.</p>
 
+## Absorção do bloco 
 
-Caracter | Permissão
----------|----------
-`r`      | Permissão de leitura (*read*)
-`w`      | Permissão de escrita (*write*)
-`x`      | Permissão de execução (*execute*)
-`-`      | Permissão desabilitada
+<p style='text-align: justify;'>No ensaio de índice de absorção de água determina-se a massa do bloco seco e a massa do bloco depois de imerso ou por 2 horas em água fervente ou por 24 horas em água à temperatura ambiente. Obtém-se então a proporção de quanta água esse absorveu em relação à sua massa seca (em %). No caso da água quente mede-se a absorção em um ambiente mais agressivo de maior temperatura e pressão, com aumento no tamanho dos poros.</p>
 
-Quadro perfil: Perfil dos voluntários do experimento
+<p style='text-align: justify;'>A índice de absorção quantifica a limitação da absorção é o indicativo de durabilidade, para o caso de blocos cerâmicos por exemplo o limite está entre 8 e 22 %.</p>
 
-|Vol.|Formação acadêmica           |Experiência c/ Latex| Expeiência c/ Markdown|
-|:-:|:----------------------------:|:------------------:|:---------------------:|
-|1  |Ciência da Computação         |ShareLatex          |    Readme/Github      |
-|2  |Engenharia da Computação      |Viu prof. utilizando|         -             |
-|3  |Engenheiro elétrico (mestrando)|Utiliza para tudo  |         -             |
+## Argamassa de assentamento
 
-Fonte: Autor.
-    
-```
-x <- rnorm(n = 10, mean = 100, sd = 5)
-hist(x, main = "")
-```
+<p style='text-align: justify;'>Para a ligação da alvenaria estrutural utiliza-se argamassa entre blocos, uniformizando os apoios entre eles. O conjunto bloco e argamassa forma o elemento misto chamada alvenaria autoportante ou alvenaria estrutural, que deve ser capaz de suportar diferentes carregamentos e condições ambientais.</p> 
+
+<p style='text-align: justify;'>Argamassa de assentamento é composta de cimento, cal e areia. As principais funções da argamassa de assentamento são [9]:</p> 
+
+1. unir os blocos, distribuindo as cargas por toda a área dos blocos; 
+2. compensar imperfeições e variações dimensionais dos blocos e vedar a parede, protegendo-a da água e outros agentes agressivos; 
+3. absorver as deformações naturais a que a parede é submetida, como variações devido a gradiente térmico, retração por secagem, a pequenos recalques; 
+4. contribuir para a resistência da parede de maneira adequada.
+
+## Argamassa de assentamento
+
+<p style='text-align: justify;'>Graute é uma pasta de argamassa com consistência fluida utilizada, principalmente, para o preenchimento de espaços vazios em locais de difícil acesso, dispensando o uso de vibradores para o seu adensamento.</p>
+
+<p style='text-align: justify;'>Beel e Jaffe [10] apresentam uma comparação esquemática (Figura 4) entre a fluidez do concreto, argamassas e graute mostrando que o produto cimentício graute pode ser empregado em locais de difícil acesso conforme explicitado anteriormente.</p>
+ 
+<img src="assets/imgs/slump.png" alt="Trulli" width="auto" height="200" title="– Consistência relativa dos produtos cimentícios">  
+Figura 6 – Consistência relativa dos produtos cimentícios[10].
+
+<p style='text-align: justify;'>Além disso o graute é lançado nos furos verticais dos blocos ou canaletas e peças similares J e compensadores [3]. Exercendo a função de:</p> 
+1. Aumentar a resistência em pontos localizados; 
+2. Aumentar a resistência de compressão de uma parede; 
+3. Unir eventuais armaduras ao sistema de parede autoportante.
+
