@@ -69,6 +69,15 @@ $$f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}e^{ -\frac{1}{2}\left(\frac{x-\
 
 $Y = \beta_0 + \beta_1 x + \epsilon$.
 
+## Precisão dimensional do bloco
+
+<p style='text-align: justify;'>A precisão dimensional dos blocos é diretamente está ligado à da parede. Em caso de variação da espessura dos blocos, haverá também variação na sua espessura. Para compensar essa variação a camada de revestimento da parede deverá então ser maior, aumentando o custo da obra. Se a espessura for reduzida em relação ao especificado há alguma redução na resistência da parede também [3].</p> 
+
+<p style='text-align: justify;'>Assim como as variações espessura dos blocos, variações na altura e comprimento do bloco comprometem principalmente as juntas de argamassa, horizontais e verticais, respectivamente.</p>
+
+<p style='text-align: justify;'>Os ensaios de controle das dimensões do bloco são relativamente simples, basicamente deve-se medir cada uma das dimensões e anotar valores mínimos, médios e máxima diferença em relação ao mínimo e à média.</p>
+
+
 Caracter | Permissão
 ---------|----------
 `r`      | Permissão de leitura (*read*)
