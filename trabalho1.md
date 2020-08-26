@@ -46,7 +46,24 @@ Figura 4 – Dimensões reais e dimensões nominais [6].
 
 <p style='text-align: justify;'>Para execução de alvenaria estrutural, a composição e materiais empregados deve estar dento do padrão estabelecidos em norma, assegurado a estabilidade e segurança estrutural da edificação [7] de forma a cumprir os requisitos estabelecidos por norma.</p>
 
-<p style='text-align: justify;'>Os blocos cerâmicos estruturais por definição segundo deve possuir furos prismáticos perpendiculares à face que os contêm, sendo os mesmos produzidos para serem assentados com furo na vertical [8]. Os blocos cerâmicos são classificados em: bloco cerâmico estrutural de paredes vazadas (a); bloco cerâmico estrutural com paredes maciças (b); bloco cerâmico estrutural com paredes maciças (paredes internas vazadas) (c) e bloco cerâmico estrutural perfurado (d), como mostra a Figura 1.</p>
+<p style='text-align: justify;'>Os blocos cerâmicos estruturais por definição segundo deve possuir furos prismáticos perpendiculares à face que os contêm, sendo os mesmos produzidos para serem assentados com furo na vertical [8]. Os blocos cerâmicos são classificados em: bloco cerâmico estrutural de paredes vazadas (a); bloco cerâmico estrutural com paredes maciças (b); bloco cerâmico estrutural com paredes maciças (paredes internas vazadas) (c) e bloco cerâmico estrutural perfurado (d), como mostra a Figura 5.</p>
+
+<img src="assets/imgs/tiposbloco.png" alt="Trulli" width="auto" height="300" title="Tipologia de blocos de alvenaria estrutural">  
+Figura 5 – Tipologia de blocos de alvenaria estrutural [8].
+
+<p style='text-align: justify;'>Alguns dos requisitos para determinação da qualidade de um lote de blocos são descritos a seguir.</p>
+
+## Identificação e aparência visual dos blocos
+
+<p style='text-align: justify;'>Para identificação dos blocos cerâmicos assim como define Parsekian et al. [3], deve-se durante a fabricação do bloco gravar-se em baixo o alto relevo as informações: a) identificação da empresa; b) Dimensões em centímetros (cm), em seguida largura (L), altura (H) e comprimento (C), (L x H x C), não sendo necessária a inserção da unidade de medida (cm); c) As letras EST (indicativo da sua condição estrutural); e d) indicação de rastreabilidade (número ou sigla que identifique o lote de fabricação.</p>
+
+## Resistência mecânica do bloco
+
+<p style='text-align: justify;'>A principal característica de um bloco é a sua resistência característica a compressão (fbk). Essa é fundamental para cálculo da resistência da parede (fk), sendo o material do bloco e a sua resistência fatores predominantes na resistência a compressão de uma parede. Ainda que as outras características sejam também de fundamental importância, a qualidade de um bloco é na maioria das vezes medida pela sua resistência à compressão.</p>
+
+<p style='text-align: justify;'>Segundo Parsekian et al. [3] para blocos estruturais a resistência mínima é de 3,0 MPa, onde recomenda-se a utilização de blocos mais resistente para caso de alvenaria aparente. A resistência usual do mercado é de 6,0 MPa podendo encontrar blocos de resistência que vão até 18 a 20 MPa.</p>
+
+<p style='text-align: justify;'>Para obtenção deste parâmetro é necessário executar o ensaio de um conjunto de amostra de blocos. Devendo os blocos serem submetidos a saturação, através de imersão em água por pelo menos seis horas. A determinação da resistência característica (fbk) dos blocos ensaiados pode ser calculada pelas equações descritas abaixo.</p>
 
 
 
