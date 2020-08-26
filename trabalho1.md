@@ -65,10 +65,8 @@ Figura 5 – Tipologia de blocos de alvenaria estrutural [8].
 
 <p style='text-align: justify;'>Para obtenção deste parâmetro é necessário executar o ensaio de um conjunto de amostra de blocos. Devendo os blocos serem submetidos a saturação, através de imersão em água por pelo menos seis horas. A determinação da resistência característica (fbk) dos blocos ensaiados pode ser calculada pelas equações descritas abaixo.</p>
 
-$$
-f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}
-e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 }
-$$
+$$f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 }$$
+ $Y = \beta_0 + \beta_1 x + \epsilon$.
 
 Caracter | Permissão
 ---------|----------
