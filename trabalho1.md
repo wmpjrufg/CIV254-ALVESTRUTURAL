@@ -6,11 +6,11 @@
 
 <p style='text-align: justify;'>Em um primeiro momento as formas estruturais eram compostas por junções simples de colunas e vigas e essa concepção evoluiu para as pirâmides e elementos de arco. Casos emblemáticos podem ser citados como as pirâmides do Complexo de Gizé (Egito), Pirâmide de Chichén Itzá (México) e o Palácio de Ctesifonte (Iraque). A Figura 1 apresenta construções tradicionais com o uso de rochas e dos tijolos de adobe.</p>  
 
-<img src="assets/imgs/gize.png" alt="Trulli" width="auto" height="200" title="Complexo de Gizé"> <img src="assets/imgs/itza.png" alt="Trulli" width="auto" height="200" title="Chichén Itzá"> <img src="assets/imgs/Ctesifonte.png" alt="Trulli" width="auto" height="200" title="Palácio de Ctesifonte">  
+<img src="assets/imgs/gize.png" alt="Trulli" width="100" height="200" title="Complexo de Gizé"> <img src="assets/imgs/itza.png" alt="Trulli" width="100" height="200" title="Chichén Itzá"> <img src="assets/imgs/Ctesifonte.png" alt="Trulli" width="100" height="200" title="Palácio de Ctesifonte">  
 Figura 1 - Utilização de adobe e rochas em construções. Disponível em: br.pinterest.com acessado em 21/08/2020.
 
 <p style='text-align: justify;'>Então a evolução natural do processo construtivo em alvenaria autoportante se deu com o uso da pedra, dos tijolos de adobe, blocos sílico-calcários até os blocos de concreto de alto desempenho que se conhece atualmente.</p>
-<br>
+
 <p style='text-align: justify;'>A Figura 2 apresenta alguns modelos de paredes autoportantes formadas pela junção de blocos com ou sem argamassa que eram usadas na antiguidade. Parsekian et al. [3] afirma que as sociedades antigas utilizavam nessas construções a areia como elemento abrasivo para lixar e tornar planas as faces a serem assentadas.</p>
 
 <img src="assets/imgs/paredes.png" alt="Trulli" width="auto" height="300" title="Modelos de assentamento de alvenaria de pedra ">  
