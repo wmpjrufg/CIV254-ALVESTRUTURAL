@@ -48,7 +48,7 @@ Figura 4 – Dimensões reais e dimensões nominais [6].
 
 <p style='text-align: justify;'>Os blocos cerâmicos estruturais por definição segundo deve possuir furos prismáticos perpendiculares à face que os contêm, sendo os mesmos produzidos para serem assentados com furo na vertical [8]. Os blocos cerâmicos são classificados em: bloco cerâmico estrutural de paredes vazadas (a); bloco cerâmico estrutural com paredes maciças (b); bloco cerâmico estrutural com paredes maciças (paredes internas vazadas) (c) e bloco cerâmico estrutural perfurado (d), como mostra a Figura 5.</p>
 
-<img src="assets/imgs/tiposbloco.png" alt="Trulli" width="auto" height="300" title="Tipologia de blocos de alvenaria estrutural">  
+<img src="assets/imgs/tiposblocos.png" alt="Trulli" width="auto" height="300" title="Tipologia de blocos de alvenaria estrutural">  
 Figura 5 – Tipologia de blocos de alvenaria estrutural [8].
 
 <p style='text-align: justify;'>Alguns dos requisitos para determinação da qualidade de um lote de blocos são descritos a seguir.</p>
@@ -65,7 +65,10 @@ Figura 5 – Tipologia de blocos de alvenaria estrutural [8].
 
 <p style='text-align: justify;'>Para obtenção deste parâmetro é necessário executar o ensaio de um conjunto de amostra de blocos. Devendo os blocos serem submetidos a saturação, através de imersão em água por pelo menos seis horas. A determinação da resistência característica (fbk) dos blocos ensaiados pode ser calculada pelas equações descritas abaixo.</p>
 
-
+$$
+f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}}
+e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 }
+$$
 
 Caracter | Permissão
 ---------|----------
