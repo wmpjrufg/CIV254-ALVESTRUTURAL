@@ -108,3 +108,19 @@ Figura 6 – Consistência relativa dos produtos cimentícios[10].
 2. Aumentar a resistência de compressão de uma parede; 
 3. Unir eventuais armaduras ao sistema de parede autoportante.
 
+# REFERÊNCIAS
+```
+[1]	Leet K, Uang C-M, Lanning J, Gilbert AM. Fundamentals of structural analysis. Fifth edition. New York, NY: McGraw-Hill Education; 2018.
+[2]	MCAA. History of Masonry 20--. https://www.masoncontractors.org/history/.
+[3]	Parsekian GA, Hamid AA, Drysdale RG. Comportamento e Dimensionamento de Alvenaria Estrutural. 2nd ed. São Carlos: Edufscar; 2013.
+[4]	Beck AT. Confiabilidade e segurança das estruturas. São Carlos: Elsevier; 2019.
+[5]	The Institution of Structural Engineers. Manual for the design of plain masonry in building structures. 1997.
+[6]	Ramalho MA, Corrêa MRS. Projeto de Edifícios de Alvenaria Estrutural. Pini; 2004.
+[7]	Achtziger J, Pfeifer G, Ramcke R, Zilch K. Masonry Construction Manual. Basel ; Boston : München: Birkhäuser ; Edition Detail; 2001.
+[8]	Rizzatti E, Roman HR, Mohamad G, Nakanishi EY. Tipologia de blocos cerâmicos estruturais: influência da geometria dos blocos no comportamento mecânico da alvenaria. Matéria (Rio de Janeiro) 2011;16:730–46. https://doi.org/10.1590/S1517-70762011000200008.
+[9]	Casalli JM. Estudo da interação entre a argamassa de assentamento e o bloco de concreto para alvenaria estrutural: Transporte de água e aderência. Doutorado em Engenharia Civil. Universidade Federal de Santa Catarina (UFSC), 2008.
+[10]	Beall C, Jaffe R. Concrete and masonry databook. New York: McGraw-Hill; 2003.
+```
+
+
+
