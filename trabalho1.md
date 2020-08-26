@@ -30,6 +30,17 @@ Figura 2 - Modelos de assentamento de alvenaria de pedra [3].
 
 <p style='text-align: justify;'>Ramalho e Corrêa [6] afirmam que é essencial nos projetos de alvenaria estrutural a modulação. Tal requisito permitirá que a estrutura seja executada de forma racional e econômica. Apontar uma dimensão modular do comprimento (múltiplos de C) do bloco (Figura 3) afastará problemas de dimensionalidade relacionada a medidas especiais para correção do comprimento que certamente impactaram de forma negativa do projeto de uma parede autoportante em alvenaria.</p>
 
+<img src="assets/imgs/bloco.png" alt="Trulli" width="auto" height="200" title="Exemplo de um bloco estrutural">  
+Figura 3 - Dimensões de um bloco [6].
+
+<p style='text-align: justify;'>Por exemplo escolhendo um bloco de 15 cm as medidas internas em planta deverão ser múltiplas de 15 cm. Assim, pode-se ter 60 cm, 1,20 m, 2,10 m. A mesma abordagem pode ser utilizada para o bloco de 20 cm resultando em dimensões de 60 cm, 1,60 m, 2,80 m [6]. Salienta-se aqui que a modulação em elevação também segue os mesmos critérios, porém deverá ser avaliada a dimensão (A) do bloco.</p>
+
+<p style='text-align: justify;'>Sobre o contexto anteriormente descrito pode ser levantada as questões relacionadas a modulação da arquitetura. Logo em projetos com essas características engenheiros e arquitetos devem ter uma “sintonia fina” para que o conjunto arquitetura/estrutura atenda todos os critérios projetuais.</p>
+
+<p style='text-align: justify;'>Ramalho e Corrêa [6] apresentam um exemplo básico de modulação básico para alvenaria estrutural considerando sistema com meio bloco (M) e o bloco inteiro (2M). Logo em uma modulação do tipo M=15 cm deverá se desconsiderar o valor da Junta (J) que em projetos correntes é de 1 cm. Portanto em uma modulação de 15 cm o bloco terá dimensão nominal de 14 cm. A Figura 4 apresenta o esquema de modulação em planta.</p>
+
+<img src="assets/imgs/modulacao.png" alt="Trulli" width="auto" height="300" title="Dimensões reais e dimensões nominais">  
+Figura 4 – Dimensões reais e dimensões nominais [6].
 
 Caracter | Permissão
 ---------|----------
